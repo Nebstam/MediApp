@@ -1,0 +1,1 @@
+{"name":"Meine Medikamente","short_name":"Medikamente","description":"Medikamentenplan und Einnahmeverlauf","lang":"de","start_url":"./","scope":"./","display":"standalone","background_color":"#f4f8f7","theme_color":"#126c68","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
